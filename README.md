@@ -71,11 +71,5 @@ Adoro aprender e compartilhar conhecimento!
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanylopes28&show_icons=true&theme=radical" alt="Stéfany's GitHub Stats" width="290" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanylopes28&layout=compact&theme=radical" alt="Top Languages" width="260" style="margin: 10px;"/>
-
-  
-</div>
 
 
